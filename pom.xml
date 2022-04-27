@@ -4,6 +4,4 @@
   <groupId>com.example.mathoperations</groupId>
   <artifactId>Demo</artifactId>
   <version>1.0</version>
-  <packaging>aar</packaging>
-  <dependencies/>
 </project>
