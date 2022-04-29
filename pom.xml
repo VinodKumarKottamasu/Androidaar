@@ -4,4 +4,10 @@
   <groupId>com.example.mathoperations</groupId>
   <artifactId>Demo</artifactId>
   <version>1.0</version>
+  <dependency>
+  <groupId>com.example.mathoperations</groupId>
+  <artifactId>demo</artifactId>
+  <version>1.0</version>
+</dependency>
+
 </project>
